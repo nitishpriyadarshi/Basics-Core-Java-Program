@@ -1,4 +1,4 @@
-package PackageBridgelab.com;
+package com.bridgelab;
 
 import java.util.Scanner;
 
